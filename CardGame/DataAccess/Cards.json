@@ -1,0 +1,314 @@
+[
+	{
+		"id": 1,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 2
+	},
+	{
+		"id": 2,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 3
+	},
+	{
+		"id": 3,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 4
+	},
+	{
+		"id": 4,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 5
+	},
+	{
+		"id": 5,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 6
+	},
+	{
+		"id": 6,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 7
+	},
+	{
+		"id": 7,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 8
+	},
+	{
+		"id": 8,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 9
+	},
+	{
+		"id": 9,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 10
+	},
+	{
+		"id": 10,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 11
+	},
+	{
+		"id": 11,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 12
+	},
+	{
+		"id": 12,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 13
+	},
+	{
+		"id": 13,
+		"symbolId": 1,
+		"symbolType": "hearts",
+		"value": 14
+	},
+	{
+		"id": 14,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 2
+	},
+	{
+		"id": 15,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 3
+	},
+	{
+		"id": 16,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 4
+	},
+	{
+		"id": 17,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 5
+	},
+	{
+		"id": 18,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 6
+	},
+	{
+		"id": 19,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 7
+	},
+	{
+		"id": 20,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 8
+	},
+	{
+		"id": 21,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 9
+	},
+	{
+		"id": 22,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 10
+	},
+	{
+		"id": 23,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 11
+	},
+	{
+		"id": 24,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 12
+	},
+	{
+		"id": 25,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 13
+	},
+	{
+		"id": 26,
+		"symbolId": 2,
+		"symbolType": "diamonds",
+		"value": 14
+	},
+	{
+		"id": 27,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 2
+	},
+	{
+		"id": 28,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 3
+	},
+	{
+		"id": 29,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 4
+	},
+	{
+		"id": 30,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 5
+	},
+	{
+		"id": 31,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 6
+	},
+	{
+		"id": 32,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 7
+	},
+	{
+		"id": 33,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 8
+	},
+	{
+		"id": 34,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 9
+	},
+	{
+		"id": 35,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 10
+	},
+	{
+		"id": 36,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 11
+	},
+	{
+		"id": 37,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 12
+	},
+	{
+		"id": 38,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 13
+	},
+	{
+		"id": 39,
+		"symbolId": 3,
+		"symbolType": "clubs",
+		"value": 14
+	},
+	{
+		"id": 40,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 2
+	},
+	{
+		"id": 41,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 3
+	},
+	{
+		"id": 42,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 4
+	},
+	{
+		"id": 43,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 5
+	},
+	{
+		"id": 44,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 6
+	},
+	{
+		"id": 45,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 7
+	},
+	{
+		"id": 46,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 8
+	},
+	{
+		"id": 47,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 9
+	},
+	{
+		"id": 48,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 10
+	},
+	{
+		"id": 49,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 11
+	},
+	{
+		"id": 50,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 12
+	},
+	{
+		"id": 51,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 13
+	},
+	{
+		"id": 52,
+		"symbolId": 4,
+		"symbolType": "spades",
+		"value": 14
+	}
+]
